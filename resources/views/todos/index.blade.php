@@ -15,7 +15,7 @@
             @endif
 
             <div class="card">
-                <div class="card-header">{{ __('Todos Index') }}</div>
+                <div class="card-header">{{ __('Todos Index ubah') }}</div>
 
                 <div class="card-body">
                     <table class=table>
